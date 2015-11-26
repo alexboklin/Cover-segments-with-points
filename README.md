@@ -5,20 +5,35 @@ The task is to output the optimal amount of m points and these m points themselv
 If there are several such points sets, output any of those.
 
 <b>Sample Input 1:</b>
+
 3
+
 1 3
+
 2 5
+
 3 6
+
 <b>Sample Output 1:</b>
+
 1
+
 3 
 
 <b>Sample Input 2:</b>
+
 4
+
 4 7
+
 1 3
+
 2 5
+
 5 6
+
 <b>Sample Output 2:</b>
+
 2
+
 3 6 
